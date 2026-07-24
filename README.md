@@ -91,9 +91,6 @@ The application includes:
 # 📦 Quick Start
 
 ```bash
-git clone https://github.com/rabii10/loyalty-card-management.git
-
-cd loyalty-card-management
 
 flutter pub get
 
